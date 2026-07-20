@@ -55,5 +55,13 @@ The application allows users to:
 - Form: https://ath.free.je/y.html
 - View Records: https://ath.free.je/DB.php
 
-## Author
-Atheer Alharbi
+  ## Screenshots
+
+### Input Form
+
+![Form](form.png)
+
+### Database Records
+
+![Database](database.png)
+
