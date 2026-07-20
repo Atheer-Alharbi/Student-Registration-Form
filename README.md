@@ -50,5 +50,10 @@ The application allows users to:
 - Save the information into the MySQL database.
 - View all stored records in a table.
 
+## Live Demo
+
+- Form: https://ath.free.je/y.html
+- View Records: https://ath.free.je/DB.php
+
 ## Author
 Atheer Alharbi
