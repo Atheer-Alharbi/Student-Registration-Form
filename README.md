@@ -1,4 +1,4 @@
-# PHP & MySQL Form Project
+# HTML, PHP & MySQL Form Project
 
 ## Project Description
 This project is a simple web application developed using HTML and PHP with a MySQL database. It allows users to enter their name and age through a web form, stores the submitted data in the database, and displays all saved records in a table.
